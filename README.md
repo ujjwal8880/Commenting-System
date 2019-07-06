@@ -4,20 +4,20 @@ A simple comment system, built with ReactJS, integrated with Firebase, using aut
 
 
 Installing the dependencies from the NPM Package Manager
-npm install
+  npm install
 To start the development environment, run the following command:
-npm run start
+  npm run start
 or
-yarn start
+  yarn start
 
 
 Deployment
 Run the command below to deploy, minimizing All Files.
-npm run build
+  npm run build
 or
-yarn build
+  yarn build
 After run, the browser open window automatically at http://localhost:3000/
 
 Built with
-React.js
-Firebase
+  React.js
+  Firebase
