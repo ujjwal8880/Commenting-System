@@ -2,7 +2,7 @@
 
 
 # Commenting-System
-A simple comment system, built with ReactJS, integrated with Firebase, using authentication and real-time database, based on the DevReactJS Devpleno course.
+A simple comment system, built with ReactJS, integrated with Firebase, using authentication and real-time database .
 
 
 
